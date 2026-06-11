@@ -18,4 +18,4 @@ Berikut adalah alur fitur-fitur utama dalam aplikasi Siakad UNU Yogyakarta:
 ![Keuangan](keuangan.gif)
 *Transparansi tagihan pembayaran dan riwayat pembayaran.*
 ## Prototype
-[Klik di sini untuk mencoba Prototype Interaktif di Figma](https://www.figma.com/design/uq9JI6rhhu4kA7yBLY4CfS/SIAKAD-UNU?node-id=544-941&t=StaEWEoyaOlC8wF9-1)
+[Klik di sini untuk mencoba Prototype Interaktif di Figma](https://www.figma.com/proto/uq9JI6rhhu4kA7yBLY4CfS/SIAKAD-UNU?node-id=4-4&t=xlEV2y0AqbS3Wu2v-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A4)
